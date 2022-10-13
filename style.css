@@ -27,7 +27,7 @@
 
 .hero-2:before {
     content: '';
-    background: url('https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_360,q_100,w_1140/v1/gcs/platform-data-goog/chapter_banners/1500x500_X5b2zlL.jpeg') no-repeat center center/cover;
+    background: url('https://s3-alpha-sig.figma.com/img/bf68/5f66/aaa91d6d792499f0bec0c9762cb57f5b?Expires=1666569600&Signature=hXeKOTtSQKHLVT3JinpH8ne2HvgWPXHSNqkgguprxmml9vTNanIYLHxoBfXn2tsOhffRJpbGZypgT8n3QPCSZcU9DNuzqpRsYLSE9T8E5jD4Z4msNdpz-y-87mZ3FPviIFA8a0SKxTM681lu3CthQExhSyjUxpjpQCCHBgs4S5k6a~Wtfz-hDcef4Z6qTNGbPKmsvuXrZlX6r0vlrm8JBdFVPuFAM7dvXkDRUtlTlfOh5p8LuXv9xhxp4wxIACIv1Ortc7uvWSxXiDjqz3oYl-cDeXQOm8sgIPyqAM8R5GFMbWxnLDhwGynLpFT~Ui12EreSO1A5v3WK~8VyklfPRA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA') no-repeat center center/cover;
     height: 100%;
     width: 100%;
     position: absolute;
