@@ -12,7 +12,6 @@
     margin-top: 58px;
 }
  
-
 .btn{
     border: 1px solid #4285F4;
 }
@@ -23,7 +22,7 @@
     height: 80vh;
     width: 100%;
     position: relative;
-    margin-bottom: 4rem;
+     
 }
 
 .hero-2:before {
