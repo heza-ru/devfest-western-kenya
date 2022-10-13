@@ -1,0 +1,17 @@
+*{
+
+    font-family: Helvetica;
+     
+    color: white;
+}
+.hero{
+    background-color:black;
+}
+.hero h1,.hero .left{
+    margin-top: 58px;
+}
+ 
+
+.btn{
+    border: 1px solid #4285F4;
+}
